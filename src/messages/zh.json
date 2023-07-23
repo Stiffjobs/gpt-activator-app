@@ -1,0 +1,62 @@
+{
+	"Index": {
+		"desktop": {
+			"title": "Unlock Potential with GPT-Activator",
+			"introductory": "透過 GPT-Activator 開啟人工智慧的潛力。我們的平台將 LLM（Large Language Model）融入您的業務運營，提供類似人類的文本生成和數據分析，為更智慧、更創新的業務解決方案添磨。",
+			"calltoaction": "準備好借助 GPT-Activator 的人工智慧力量了嗎？立即開始免費試用！"
+		},
+		"mobile": {
+			"title": "Discover AI Power with GPT-Activator",
+			"introductory": "我們的 GPT-Activator 將人工智慧力量帶入您的業務。非常適合開發者、新創公司和企業使用。",
+			"calltoaction": "準備好借助 GPT-Activator 的人工智慧力量了嗎？立即開始免費試用！"
+		}
+	},
+	"Navigation": {
+		"title": "GPT-Activator",
+		"sign_in": "登入",
+		"sign_up": "註冊",
+		"home": "首頁",
+		"docs": "文件",
+		"pricing": "費用",
+		"dashboard": {
+			"index": "Profile",
+			"document": "文件",
+			"usage": "用量",
+			"payment": "付費方式",
+			"integration": "應用"
+		}
+	},
+	"Dashboard": {
+		"profile": {
+			"title": "Profile"
+		},
+		"document": {
+			"title": "文件",
+			"create": {
+				"title": "上傳新文件"
+			},
+			"delete": {
+				"confirmation": "確定要刪除此文件？",
+				"details": "相關的應用都會被一起刪除",
+				"title": "刪除文件",
+				"cancel": "取消",
+				"delete": "刪除"
+			},
+			"button": {
+				"new": "上傳文件"
+			}
+		},
+		"usage": {
+			"title": "用量"
+		},
+		"integration": {
+			"title": "應用",
+			"button": {
+				"new": "新增應用"
+			}
+		},
+		"payment": {
+			"title": "付款方式"
+		}
+	}
+}

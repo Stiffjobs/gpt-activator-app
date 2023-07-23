@@ -1,0 +1,62 @@
+{
+	"Index": {
+		"desktop": {
+			"title": "Unlock Potential with GPT-Activator",
+			"introductory": "Unlock AI's potential with GPT-Activator. Our platform blends advanced machine learning into your operations, offering human-like text generation and data analysis for smarter, more innovative business solutions.",
+			"calltoaction": "Ready to leverage the power of AI with GPT-Activator? Start your free trial today!"
+		},
+		"mobile": {
+			"title": "Discover AI Power with GPT-Activator",
+			"introductory": "Our GPT-Activator brings AI power to your business. Ideal for developers, startups, and enterprises.",
+			"calltoaction": "Ready to leverage the power of AI with GPT-Activator? Start your free trial today!"
+		}
+	},
+	"Navigation": {
+		"title": "GPT-Activator",
+		"sign_in": "Sign in",
+		"sign_up": "Sign up",
+		"home": "Home",
+		"docs": "Documentation",
+		"pricing": "Pricing",
+		"dashboard": {
+			"index": "Profile",
+			"document": "Document",
+			"usage": "Usage",
+			"payment": "Payment method",
+			"integration": "Integration"
+		}
+	},
+	"Dashboard": {
+		"profile": {
+			"title": "Profile"
+		},
+		"document": {
+			"title": "Document",
+			"create": {
+				"title": "Upload New Document"
+			},
+			"delete": {
+				"confirmation": "Are you sure to delete this document?",
+				"details": "Related sections and integrations will also be deleted.",
+				"title": "Delete Document",
+				"cancel": "Cancel",
+				"delete": "Delete"
+			},
+			"button": {
+				"new": "Upload Document"
+			}
+		},
+		"usage": {
+			"title": "Usage"
+		},
+		"integration": {
+			"title": "Integration",
+			"button": {
+				"new": "Add Integration"
+			}
+		},
+		"payment": {
+			"title": "Payment method"
+		}
+	}
+}
