@@ -11,7 +11,7 @@ export interface NavigationType {
 
 export const navigation: NavigationType[] = [
 	{ name: 'home', href: '/' },
-	{ name: 'docs', href: '/docs' },
+	{ name: 'docs', href: 'https://docs.gpt-activator.com' },
 ];
 
 export const mobileNavigation: NavigationType[] = [
