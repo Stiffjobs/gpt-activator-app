@@ -10,10 +10,12 @@ const publicPaths = [
 	'/',
 	'/:locale/sign-in',
 	'/:locale/sign-up',
+	'/sign-in',
+	'/sign-up',
 	'/api',
 	'/:locale',
 ];
-const locales = ['en', 'zh'];
+const locales = ['zh'];
 
 const ratelimit = new Ratelimit({
 	redis: Redis.fromEnv(),

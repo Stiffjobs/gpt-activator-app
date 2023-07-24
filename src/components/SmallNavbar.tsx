@@ -29,13 +29,13 @@ const SmallNavbar = () => {
 						className="block rounded-md px-3 py-2 text-base font-medium"
 						href="/sign-in"
 					>
-						<button>{'nav.signin'}</button>
+						<button>{t('sign_in')}</button>
 					</Link>
 					<Link
 						className="block rounded-md px-3 py-2 text-base font-medium"
 						href="/sign-up"
 					>
-						<button>{'nav.signup'}</button>
+						<button>{t('sign_up')}</button>
 					</Link>
 				</SignedOut>
 				{navigation.map(item => (
@@ -55,7 +55,7 @@ const SmallNavbar = () => {
 						href="#"
 						className="block rounded-md px-3 py-2 text-base font-medium"
 					>
-						<button onClick={() => signOut()}>Sign Out</button>
+						<button onClick={() => signOut()}>{t('sign_out')}</button>
 					</Link>
 				</SignedIn>
 			</div>

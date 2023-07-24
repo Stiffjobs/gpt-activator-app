@@ -15,11 +15,12 @@
 		"title": "GPT-Activator",
 		"sign_in": "登入",
 		"sign_up": "註冊",
+		"sign_out": "登出",
 		"home": "首頁",
 		"docs": "文件",
 		"pricing": "費用",
 		"dashboard": {
-			"index": "Profile",
+			"index": "個人資料",
 			"document": "文件",
 			"usage": "用量",
 			"payment": "付費方式",
@@ -28,7 +29,7 @@
 	},
 	"Dashboard": {
 		"profile": {
-			"title": "Profile"
+			"title": "個人資料"
 		},
 		"document": {
 			"title": "文件",
