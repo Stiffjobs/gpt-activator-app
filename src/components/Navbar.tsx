@@ -12,7 +12,6 @@ export interface NavigationType {
 export const navigation: NavigationType[] = [
 	{ name: 'home', href: '/' },
 	{ name: 'docs', href: '/docs' },
-	{ name: 'pricing', href: '/pricing' },
 ];
 
 export const mobileNavigation: NavigationType[] = [
