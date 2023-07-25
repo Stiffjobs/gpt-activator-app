@@ -12,8 +12,6 @@ const publicPaths = [
 	'/:locale/sign-up',
 	'/sign-in',
 	'/sign-up',
-	'/api',
-	'/:locale',
 ];
 const locales = ['zh'];
 
